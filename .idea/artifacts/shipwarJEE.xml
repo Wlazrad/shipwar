@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="shipwarJEE">
+    <output-path>$PROJECT_DIR$/classes/artifacts/shipwarJEE</output-path>
+    <root id="root">
+      <element id="module-output" name="appPot" />
+    </root>
+  </artifact>
+</component>

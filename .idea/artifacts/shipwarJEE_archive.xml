@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="shipwarJEE archive">
+    <output-path>$PROJECT_DIR$/classes/artifacts/shipwarJEE_archive</output-path>
+    <root id="archive" name="shipwarJEE archive.ear">
+      <element id="artifact" artifact-name="shipwarJEE" />
+    </root>
+  </artifact>
+</component>
